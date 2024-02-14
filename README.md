@@ -1,11 +1,5 @@
 ## Projeto pokedex
 
-recusos usado
-HTML
-CSS
-JS
-Documentação da API: https://pokeapi.co/
-
 ## Tecnologias Utilizadas
 * HTML
 * CSS
