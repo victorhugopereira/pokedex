@@ -13,6 +13,7 @@
 
 3º- execute o arquivo Index no seu navegador
 
+link ativo ==> https://github.com/victorhugopereira/pokedex/actions/runs/7908218433
 
 ## Imagens representativas
 
